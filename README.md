@@ -58,7 +58,7 @@ Seu projeto será avaliado de acordo com os seguintes critérios.
 4. Qualidade e cobertura dos testes unitários.
 5. Ter uma aparência bonita
 
-Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação funcional a partir da estrutura de seu projeto.
+Adicionalmente, tentaremos verificar a sua familiarização com as bibliotecas padrões (standard libs), bem como sua experiência com programação mobile a partir da estrutura de seu projeto.
 
 ---
 
