@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Pokedex</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Adicionar</string>
+    <string name="lbl_name">Nome: </string>
+    <string name="lbl_weight">Peso: </string>
+    <string name="lbl_size">Tamanho:</string>
+    <string name="lbl_type">Tipo:</string>
+    <string name="lbl_ability">Habilidade:</string>
+    <string name="lbl_speed">Velocidade:</string>
+    <string name="lbl_defense">Defesa:</string>
+    <string name="lbl_attack">Ataque:</string>
+    <string name="lbl_hp">HP:</string>
+    <string name="lbl_evolution_steps">Passos da evolução:</string>
+    <string name="detail_name">Detalhes</string>
+    <string name="add_name">Adicionar</string>
+    <string name="lbl_save">Salvar</string>
+    <string name="msg_no_exists">Este Pokemon não existe.</string>
+    <string name="msg_pokemon_saved">Pokemon salvo com sucesso.</string>
+    <string name="msg_pokemon_not_saved">Pokemon não foi salvo.</string>
+    <string name="lbl_ok">OK</string>
+    <string name="lbl_attention">Atenção</string>
+</resources>
